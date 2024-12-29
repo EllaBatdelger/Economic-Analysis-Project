@@ -24,7 +24,7 @@ Overview: This project is about analyzing unemployment trends across different s
 - How to handle challenges in data analysis with creativity and persistence.
 
 ### About Me
-I love working with data and figuring out how to make sense of it. This project shows my interest in economic trends and my ability to turn numbers into insights. I’m always looking to learn more and work on exciting projects. Let’s connect if you’re interested!
+I love working with data and figuring out how to make sense of it. With this project, I aimed to simplify the data scraping process from FRED and experiment with new methods of using APIs. This experience has sparked my interest in exploring other projects where I can work with raw data and APIs. Additionally, I’ve included my project presentation as PDF file in the repository for those who want to learn more or see a summary of my findings. If you have any feedback for me, please don't hesitate to reach out to me!
 
 ### Future Improvements
 - Adding more economic data for a deeper analysis.
