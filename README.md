@@ -23,11 +23,6 @@ Overview: This project is about analyzing unemployment trends across different s
 - How to explore data and find interesting trends.
 - How to handle challenges in data analysis with creativity and persistence.
 
-### Usage
-1. Clone the repository.
-2. Install the required libraries using `pip install -r requirements.txt`.
-3. Run `main.py` to fetch, clean, and visualize the data.
-
 ### About Me
 I love working with data and figuring out how to make sense of it. This project shows my interest in economic trends and my ability to turn numbers into insights. I’m always looking to learn more and work on exciting projects. Let’s connect if you’re interested!
 
